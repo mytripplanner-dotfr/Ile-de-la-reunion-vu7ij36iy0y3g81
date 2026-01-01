@@ -1,0 +1,300 @@
+{
+  "pays": "France",
+  "drapeau": "🇫🇷",
+  "symbole": "🌋",
+  "titre": "Évasion Tropicale et Douceur Créole à la Réunion",
+  "budget_total": "1650 €/pers",
+  "duree": "7 jours",
+  "temps_vol": "11h00 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur sur la Côte Ouest",
+      "legende": "Après un long vol, l'arrivée à La Réunion est synonyme de détente. Installez-vous confortablement sur la côte ouest, réputée pour ses lagons calmes et ses couchers de soleil. Une première soirée paisible pour s'acclimater au rythme créole.",
+      "lieu": "Saint-Gilles-les-Bains",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport Roland Garros</strong>: Récupération du véhicule de location et transfert vers votre hébergement sur la côte ouest.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous installer dans votre havre de paix.",
+        "<strong>🚶‍♀️ Balade relaxante sur la plage de l'Hermitage</strong>: Profitez d'une promenade douce le long du lagon, les pieds dans le sable chaud, pour admirer le premier coucher de soleil réunionnais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport Roland Garros, Sainte-Marie",
+          "categorie": "Aéroport",
+          "coords": { "lat": -20.8904, "lng": 55.5109 }
+        },
+        {
+          "nom_recherche": "Plage de l'Hermitage, Saint-Gilles-les-Bains",
+          "categorie": "Plage",
+          "coords": { "lat": -21.0967, "lng": 55.2259 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer l'île à votre rythme. Réservez à l'avance pour de meilleurs tarifs."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Décalage horaire",
+          "texte": "La Réunion est en avance de 2 heures sur Paris en été, 3 heures en hiver. Prévoyez une journée légère pour l'acclimatation."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "☀️",
+      "titre": "Lagon, Marché et Douceur Tropicale",
+      "legende": "Une journée dédiée à la découverte des charmes de la côte ouest. Plongez dans les eaux calmes du lagon, flânez au milieu des couleurs et saveurs d'un marché local, puis terminez par un moment de pure détente.",
+      "lieu": "Saint-Paul & Saint-Gilles-les-Bains",
+      "activites": [
+        "<strong>🐠 Matinée snorkeling dans le lagon de l'Hermitage</strong>: Explorez les fonds marins protégés, riches en poissons tropicaux, dans les eaux claires et peu profondes.",
+        "<strong>🛍️ Visite du marché forain de Saint-Paul</strong>: Imprégnez-vous de l'ambiance locale en déambulant parmi les étals colorés de fruits, légumes, épices et artisanat créole (uniquement le vendredi et samedi).",
+        "<strong>💆‍♀️ Après-midi détente au bord de la piscine ou spa</strong>: Offrez-vous un moment de relaxation à l'hôtel ou dans un centre de bien-être pour recharger les batteries."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lagon de l'Hermitage, Saint-Gilles-les-Bains",
+          "categorie": "Lagon",
+          "coords": { "lat": -21.0967, "lng": 55.2259 }
+        },
+        {
+          "nom_recherche": "Marché Forain de Saint-Paul",
+          "categorie": "Marché",
+          "coords": { "lat": -21.0069, "lng": 55.2709 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Protection solaire",
+          "texte": "Le soleil tropical est intense. N'oubliez pas crème solaire, chapeau et lunettes de soleil, même sous l'eau."
+        },
+        {
+          "symbole": "🗓️",
+          "titre": "Marché de Saint-Paul",
+          "texte": "Le marché forain de Saint-Paul a lieu le vendredi toute la journée et le samedi matin. Adaptez votre programme si vous souhaitez le visiter."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌺",
+      "titre": "Jardins Exotiques et Douceur du Sud",
+      "legende": "Partez à la découverte de la flore luxuriante de l'île et des paysages côtiers du sud-ouest. Une journée entre nature apaisante et panoramas marins, loin de l'agitation.",
+      "lieu": "Saint-Leu & Étang-Salé",
+      "activites": [
+        "<strong>🌿 Visite du Jardin d'Eden</strong>: Flânez dans ce magnifique jardin botanique, véritable havre de paix abritant des milliers d'espèces végétales tropicales.",
+        "<strong>🚶‍♂️ Promenade sur la plage de l'Étang-Salé</strong>: Découvrez le sable noir volcanique de cette plage unique, offrant un contraste saisissant avec le bleu de l'océan (attention aux courants, baignade surveillée).",
+        "<strong>🌅 Coucher de soleil à la Pointe au Sel</strong>: Admirez les couleurs flamboyantes du ciel au-dessus de l'océan Indien, un moment magique pour clore la journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin d'Eden, Saint-Gilles-les-Bains",
+          "categorie": "Jardin Botanique",
+          "coords": { "lat": -21.0772, "lng": 55.2319 }
+        },
+        {
+          "nom_recherche": "Plage de l'Étang-Salé",
+          "categorie": "Plage",
+          "coords": { "lat": -21.2657, "lng": 55.3377 }
+        },
+        {
+          "nom_recherche": "Pointe au Sel, Saint-Leu",
+          "categorie": "Site naturel",
+          "coords": { "lat": -21.1719, "lng": 55.2869 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌸",
+          "titre": "Flore réunionnaise",
+          "texte": "Le Jardin d'Eden est une excellente introduction à la biodiversité de l'île. Prenez votre temps pour apprécier chaque recoin."
+        },
+        {
+          "symbole": "🌊",
+          "titre": "Sable noir",
+          "texte": "La plage de l'Étang-Salé est célèbre pour son sable volcanique. C'est une expérience unique, mais soyez vigilant si vous vous baignez."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌋",
+      "titre": "Majesté Volcanique et Paysages Lunaires",
+      "legende": "Aujourd'hui, cap sur le Piton de la Fournaise, l'un des volcans les plus actifs du monde. Une approche douce pour admirer ses paysages grandioses et lunaires, sans effort physique intense.",
+      "lieu": "Sainte-Rose & Piton de la Fournaise",
+      "activites": [
+        "<strong>🚗 Route du Volcan</strong>: Empruntez la route sinueuse qui traverse des paysages changeants, de la forêt luxuriante aux plaines désertiques.",
+        "<strong>👀 Point de vue du Pas de Bellecombe</strong>: Admirez le panorama époustouflant sur l'enclos Fouqué et le cône du Piton de la Fournaise depuis ce belvédère accessible en voiture.",
+        "<strong>🚶‍♀️ Courte balade sur la Plaine des Sables</strong>: Marchez quelques pas sur cette étendue désertique aux allures martiennes, pour une immersion totale dans l'ambiance volcanique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Pas de Bellecombe, La Réunion",
+          "categorie": "Point de vue volcan",
+          "coords": { "lat": -21.2294, "lng": 55.6708 }
+        },
+        {
+          "nom_recherche": "Plaine des Sables, La Réunion",
+          "categorie": "Paysage volcanique",
+          "coords": { "lat": -21.2093, "lng": 55.6593 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☁️",
+          "titre": "Météo au volcan",
+          "texte": "Le temps peut changer rapidement en altitude. Prévoyez des vêtements chauds et imperméables, même si le soleil brille au départ."
+        },
+        {
+          "symbole": "🛣️",
+          "titre": "Accès",
+          "texte": "La route jusqu'au Pas de Bellecombe est goudronnée et accessible à tous les véhicules. Pas besoin de 4x4."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "💧",
+      "titre": "Cascades, Vanille et Est Verdoyant",
+      "legende": "Direction l'Est de l'île, une région plus humide et luxuriante, parsemée de cascades impressionnantes et de plantations. Une journée rafraîchissante et parfumée au cœur de la nature tropicale.",
+      "lieu": "Sainte-Suzanne & Saint-André",
+      "activites": [
+        "<strong>💦 Admiration de la Cascade Niagara</strong>: Contemplez cette majestueuse chute d'eau, facilement accessible et offrant un spectacle naturel saisissant.",
+        "<strong>🌱 Visite de la Vanilleraie</strong>: Découvrez les secrets de la culture de la vanille Bourbon, de la fleur à la gousse, lors d'une visite guidée passionnante et parfumée.",
+        "<strong>🏞️ Détente au Bassin la Paix</strong>: Profitez de la sérénité de ce bassin naturel, idéal pour une pause rafraîchissante ou simplement pour admirer le paysage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cascade Niagara, Sainte-Suzanne",
+          "categorie": "Cascade",
+          "coords": { "lat": -20.9004, "lng": 55.5702 }
+        },
+        {
+          "nom_recherche": "La Vanilleraie, Sainte-Suzanne",
+          "categorie": "Plantation de vanille",
+          "coords": { "lat": -20.9008, "lng": 55.5709 }
+        },
+        {
+          "nom_recherche": "Bassin la Paix, Saint-André",
+          "categorie": "Bassin naturel",
+          "coords": { "lat": -20.9328, "lng": 55.6329 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "☔",
+          "titre": "Climat de l'Est",
+          "texte": "L'Est est plus arrosé que l'Ouest. Prévoyez un petit imperméable ou un parapluie, surtout en après-midi."
+        },
+        {
+          "symbole": "🍦",
+          "titre": "Dégustation",
+          "texte": "À la Vanilleraie, ne manquez pas de goûter aux produits locaux à base de vanille, comme la glace ou le rhum arrangé."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏘️",
+      "titre": "Charme Créole et Cirque de Salazie",
+      "legende": "Pénétrez au cœur de l'île en explorant le Cirque de Salazie, un écrin de verdure où se niche Hell-Bourg, classé parmi les \"Plus Beaux Villages de France\". Une journée empreinte d'histoire et de paysages grandioses.",
+      "lieu": "Salazie & Hell-Bourg",
+      "activites": [
+        "<strong>🚗 Traversée du Cirque de Salazie</strong>: Laissez-vous émerveiller par les paysages verdoyants, les cascades vertigineuses et la végétation luxuriante qui bordent la route.",
+        "<strong>🏡 Visite du village de Hell-Bourg</strong>: Flânez dans les ruelles de ce village authentique, admirez ses cases créoles colorées et son architecture typique.",
+        "<strong>💧 Découverte de la Voile de la Mariée</strong>: Observez cette cascade impressionnante, dont les multiples filets d'eau rappellent un voile de mariée, un spectacle poétique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hell-Bourg, Salazie",
+          "categorie": "Village",
+          "coords": { "lat": -21.0667, "lng": 55.5000 }
+        },
+        {
+          "nom_recherche": "Voile de la Mariée, Salazie",
+          "categorie": "Cascade",
+          "coords": { "lat": -21.0333, "lng": 55.5000 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⛰️",
+          "titre": "Routes de montagne",
+          "texte": "Les routes des cirques sont sinueuses. Conduisez prudemment et prenez le temps d'admirer les paysages."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Balade à Hell-Bourg",
+          "texte": "Le village se découvre à pied. Prévoyez de bonnes chaussures pour explorer ses charmes sans difficulté."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Une dernière matinée pour profiter de l'ambiance réunionnaise, faire quelques emplettes de dernière minute ou simplement savourer un dernier petit-déjeuner créole avant de prendre la route de l'aéroport. Des souvenirs plein la tête et l'envie de revenir.",
+      "lieu": "Saint-Denis",
+      "activites": [
+        "<strong>🎁 Achats de souvenirs</strong>: Profitez de la matinée pour acheter des épices, du rhum, de la vanille ou de l'artisanat local.",
+        "<strong>🍽️ Dernier repas créole</strong>: Savourez une dernière fois les saveurs de la cuisine réunionnaise avant de quitter l'île.",
+        "<strong>🛫 Transfert à l'aéroport Roland Garros</strong>: Restitution du véhicule de location et enregistrement pour votre vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport Roland Garros, Sainte-Marie",
+          "categorie": "Aéroport",
+          "coords": { "lat": -20.8904, "lng": 55.5109 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport, la restitution du véhicule et les formalités d'enregistrement."
+        },
+        {
+          "symbole": "🛍️",
+          "titre": "Produits locaux",
+          "texte": "Les marchés ou les boutiques de l'aéroport proposent de nombreux produits locaux pour prolonger le voyage à la maison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "600 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "225 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "350 €/pers (50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "360 €/pers (120€/nuit en 3* sur 6 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "80 €/pers (entrées jardins, vanilleraie)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Novembre", "symbole": "☀️" },
+    { "titre": "Saison sèche et fraîche", "symbole": "🌬️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La Réunion est un département français. La monnaie est l'Euro (€).", "symbole": "💶" },
+    { "titre": "Permis de conduire français suffisant. Conduite à droite. Routes de montagne sinueuses.", "symbole": "🚗" },
+    { "titre": "Prévoyez des vêtements légers pour la côte et plus chauds/imperméables pour l'altitude (volcan, cirques).", "symbole": "👕" },
+    { "titre": "L'eau du robinet est potable. Pensez à vous hydrater régulièrement.", "symbole": "💧" },
+    { "titre": "Couverture mobile et internet généralement bonne dans les zones habitées.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-RUN/2026-05-08/2026-05-15", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Île de La Réunion Tourisme", "url": "https://www.reunion.fr/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Comparateur de location de voiture", "url": "https://www.rentalcars.com/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo France La Réunion", "url": "https://www.meteofrance.re/", "symbole": "🌤️" }
+  ]
+}
